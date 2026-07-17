@@ -56,10 +56,6 @@ fun_fact:    "Started coding out of curiosity — never stopped. 🚀"
   <img src="https://img.shields.io/badge/Aircrack--ng-1C1C1C?style=for-the-badge&logo=wifi&logoColor=white" />
 </p>
 
-<div align="center">
-  <img src="https://tryhackme-badges.vercel.app/api?username=Noxisan" alt="TryHackMe Badge" />
-</div>
-
 <!-- ====================== SKILLS ====================== -->
 ## 🛠️ Tech Stack
 
